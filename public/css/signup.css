@@ -1,0 +1,16 @@
+body {
+    background-color: #eef2f7;
+    font-family: "Roboto", sans-serif;
+}
+
+.signup-card {
+    width: 400px;
+    border-radius: 10px;
+    background: white;
+}
+
+button {
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}

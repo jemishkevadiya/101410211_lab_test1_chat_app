@@ -24,3 +24,24 @@ A simple chat application that includes user authentication with a login functio
 
 ## signup page:
 
+![Screenshot of signup page](images/signup.png)
+
+## login page:
+
+![Screenshot of login page](images/login.png)
+
+## group-chat page:
+
+![Screenshot of group-chat page](images/groupchat_joined.png)
+
+## group-chat page:
+
+![Screenshot of group-chat page](images/groupchat_messages.png)
+
+## group-chat page:
+
+![Screenshot of group-chat page](images/groupchat_left.png)
+
+## private-chat page:
+
+![Screenshot of private-chat page](images/private_message.png)
